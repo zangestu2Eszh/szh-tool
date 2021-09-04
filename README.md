@@ -1,5 +1,5 @@
 <h1>szhtool</h1>
-<p>This tool is used to install and running tools().<br/>Enjoy ^_^</p>
+<p>This tool is used to install and running tools(Information Gathering,Vulnerability Scanner,Stress Testing,Password Attacks,Web Hacking,Exploitation Tools,Sniffing & Spoofing,And More).<br/>Enjoy ^_^</p>
 <h1>How to install :</h1>
 
 ```
